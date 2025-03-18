@@ -8,10 +8,10 @@ As I pursue my **Master of Computer Science with Woolf and GoMyCode**, I have ga
 
 ### 🔹 **Technical Skills**  
 - **Machine Learning & AI**: Building intelligent models for fraud detection and risk analysis.  
-- **Cloud Computing**: Deploying scalable applications with **Google Cloud, AWS, and Docker/Kubernetes**.  
-- **Software Engineering**: Developing high-performance applications using **Django, Flask, FastAPI, Spring Boot**.  
+- **Cloud Computing**: Deploying scalable applications with **Google Cloud, AWS, and Netify**.  
+- **Software Engineering**: Developing high-performance applications using **React, Next, Typescript, Javascript, Html,Css, Tailwind**.  
 - **Big Data & Data Engineering**: Processing large datasets efficiently with **Apache Spark, Hadoop, Airflow**.  
-- **SQL & Python**: Advanced database management and analytics.  
+- **SQL & Mongodb**: Advanced database management and analytics.  
 - **Fintech & Payment Systems**: Understanding financial transactions, APIs, and digital payments.  
 
 ### 🔹 **Soft Skills & Career Growth**  
